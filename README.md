@@ -24,6 +24,8 @@
     email: '',
     password: '',
   });
+
+  const { email, password } = form;
   ```
 
   Insert data process using useMutation :
